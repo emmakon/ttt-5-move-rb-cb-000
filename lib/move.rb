@@ -13,4 +13,5 @@ input.to_i - 1
 end
 
 def move(board, input, player="X")
+  board[input] = player
 end
