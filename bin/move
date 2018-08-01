@@ -2,7 +2,3 @@
 
 require_relative '../lib/move.rb'
 
-board = [" ",
-
-def display_board(board)
-end
